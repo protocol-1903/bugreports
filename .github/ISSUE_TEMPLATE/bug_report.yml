@@ -4,8 +4,7 @@ labels: ["triage"]
 assignees:
   - protocol-1903
 body:
-  - type: checkboxes
-    id: issuetype
+  - type: input
     attributes:
       label: Which mod(s) of mine are relevant?
       description: The mod(s) in question
